@@ -1,6 +1,6 @@
 Config = {}
 
-Config.BanditsChance = 100  -- %
+Config.BanditsChance = 70  -- %
 Config.nonRobTime = 60 -- Min
 Config.runAwayDis = 150
 
@@ -31,4 +31,3 @@ Config.Bandits = {
     }
     
 }
-
