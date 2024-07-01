@@ -1,4 +1,4 @@
-# RSG NPC Bandits by IAmPere4u
+# RSG NPC Bandits by iampere4u
 
 You can be robbed by NPC bandits
 
