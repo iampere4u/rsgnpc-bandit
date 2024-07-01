@@ -142,7 +142,7 @@ Citizen.CreateThread(function()
                     DeleteEntity(k)
                 end
                 npcs = {}
-                TriggerServerEvent("pls_bandits:server:robbed")
+                TriggerServerEvent("rsgnpc-bandits:server:robbed")
                 inRobbery = false
             end
 
