@@ -25,5 +25,5 @@ ensure rsgnpc-bandits
 
 
 # Support
-- discord : https://discord.gg/PA6cTCMuhG
+- discord : [https://discord.gg/PA6cTCMuhG](https://discord.gg/MfPvSPZnkb)
 
